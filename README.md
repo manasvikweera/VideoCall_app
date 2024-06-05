@@ -2,8 +2,8 @@
 
 In the project directory, you can run:
 
-clone my repository
-run "npm -i"
+clone my repository \
+run "npm -i" \
 ng serve
 
 ### `npm start`
