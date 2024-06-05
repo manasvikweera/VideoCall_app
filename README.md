@@ -2,6 +2,10 @@
 
 In the project directory, you can run:
 
+clone my repository
+run "npm -i"
+ng serve
+
 ### `npm start`
 
 Runs the app in the development mode.\
